@@ -1,0 +1,13 @@
+.boxe {
+    background-color: grey;
+    width: max-content;
+    height: fit-content;
+    text-align: center;
+    border:1px solid;
+    border-color: rgb(156, 151, 151);
+    box-shadow: 1px 1px 10px 2px black;
+    margin: auto;
+    padding: auto;
+    overflow: hidden;
+    border-radius: 20px;
+}

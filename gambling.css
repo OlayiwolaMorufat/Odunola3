@@ -1,0 +1,26 @@
+.para {
+    color: blue;
+    background-color: rgb(183, 214, 162);
+    width: 80px;
+    font-size: larger;
+    position: relative;
+    left: 130px;
+    text-align: center;
+    border-radius: 20px;
+    
+}
+#but {
+    position: relative;
+    left: 150px;
+    background-color: rgb(183, 214, 162);
+}
+
+#one {
+    color: blue;
+    background-color: rgb(183, 214, 162);
+}
+
+#onee {
+    color: blue;
+    background-color: rgb(183, 214, 162);
+}
